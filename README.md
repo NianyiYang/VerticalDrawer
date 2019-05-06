@@ -2,9 +2,7 @@
 
 [ ![Download](https://api.bintray.com/packages/nianyiyang/VerticalDrawer/VerticalDrawer/images/download.svg?version=1.0.0) ](https://bintray.com/nianyiyang/VerticalDrawer/VerticalDrawer/1.0.0/link)
 
-A Simple Vertical Drawer View
-
-[中文文档](https://github.com/NianyiYang/VerticalDrawer/blob/master/README_CN.md)
+A Simple Vertical Drawer View [中文](https://github.com/NianyiYang/VerticalDrawer/blob/master/README_CN.md)
 
 # Demo
 

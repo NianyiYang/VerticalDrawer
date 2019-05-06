@@ -1,18 +1,17 @@
-![image](https://github.com/NianyiYang/VerticalDrawer/blob/master/drawer.gif)
-
 # VerticalDrawer
 
 [ ![Download](https://api.bintray.com/packages/nianyiyang/VerticalDrawer/VerticalDrawer/images/download.svg?version=1.0.0) ](https://bintray.com/nianyiyang/VerticalDrawer/VerticalDrawer/1.0.0/link)
 
 A Simple Vertical Drawer View
 
----
+# Demo
+![image](https://github.com/NianyiYang/VerticalDrawer/blob/master/drawer.gif)
 
 # How to use
 
 ## Add dependency
 
-project
+In project `build.gradle`
 
 ```
 allprojects {
@@ -23,7 +22,7 @@ allprojects {
 }
 ```
 
-app
+In app `build.gradle`
 
 ```
 dependencies {
@@ -31,7 +30,7 @@ dependencies {
 }
 ```
 
-## Use
+## Usage
 
 ```
 VerticalDrawerView drawer = findViewById(R.id.vd);

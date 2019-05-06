@@ -4,6 +4,8 @@
 
 A Simple Vertical Drawer View
 
+[中文文档](https://github.com/NianyiYang/VerticalDrawer/blob/master/README_CN.md)
+
 # Demo
 
 **There is something wrong with the demo gif , real demo is smooth**

@@ -5,6 +5,9 @@
 A Simple Vertical Drawer View
 
 # Demo
+
+**There is something wrong with the demo gif , real demo is smooth**
+
 ![image](https://github.com/NianyiYang/VerticalDrawer/blob/master/drawer.gif)
 
 # How to use

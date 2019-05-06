@@ -39,7 +39,7 @@ dependencies {
 VerticalDrawerView drawer = findViewById(R.id.vd);
 
 // add indicator
-drawer.setIndicator(indicatorDrawable, indicatorDrawable.getIntrinsicWidth(), indicatorDrawable.getIntrinsicHeight());
+drawer.setIndicator(drawable, drawable.getIntrinsicWidth(), drawable.getIntrinsicHeight());
 
 // add background
 drawer.setBackground(ContextCompat.getDrawable(this, R.drawable.drawer_view_background));

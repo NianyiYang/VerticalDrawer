@@ -1,6 +1,6 @@
 # VerticalDrawer
 
-[ ![Download](https://api.bintray.com/packages/nianyiyang/VerticalDrawer/VerticalDrawer/images/download.svg?version=1.0.0) ](https://bintray.com/nianyiyang/VerticalDrawer/VerticalDrawer/1.0.0/link)
+[ ![Download](https://api.bintray.com/packages/nianyiyang/maven/VerticalDrawer/images/download.svg?version=1.0.0) ](https://bintray.com/nianyiyang/maven/VerticalDrawer/1.0.0/link)
 
 一个简单纵向抽屉的实现
 

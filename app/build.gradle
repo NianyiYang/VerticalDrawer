@@ -26,4 +26,5 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.0-alpha4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-alpha4'
     implementation 'org.yang.lib:VerticalDrawer:1.0.0'
+//    implementation project(':lib')
 }

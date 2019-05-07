@@ -33,7 +33,7 @@ dependencies {
 }
 
 publish {
-    repoName = 'VerticalDrawer'
+    repoName = 'maven'
     userOrg = 'nianyiyang'
     groupId = 'org.yang.lib'
     artifactId = 'VerticalDrawer'

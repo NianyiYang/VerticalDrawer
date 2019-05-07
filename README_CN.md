@@ -2,19 +2,19 @@
 
 [ ![Download](https://api.bintray.com/packages/nianyiyang/maven/VerticalDrawer/images/download.svg?version=1.0.0) ](https://bintray.com/nianyiyang/maven/VerticalDrawer/1.0.0/link)
 
-A Simple Vertical Drawer View [中文](https://github.com/NianyiYang/VerticalDrawer/blob/master/README_CN.md)
+一个简单纵向抽屉的实现
 
 # Demo
 
-**There is something wrong with the demo gif , real demo is smooth**
+**Gif图录制有问题，实际效果没有图片中那么卡顿**
 
 ![image](https://github.com/NianyiYang/VerticalDrawer/blob/master/drawer.gif)
 
-# How to use
+# 如何使用
 
-## Add dependency
+## 添加依赖
 
-In project `build.gradle`
+项目中 `build.gradle`
 
 ```
 allprojects {
@@ -25,7 +25,7 @@ allprojects {
 }
 ```
 
-In app `build.gradle`
+模块中 `build.gradle`
 
 ```
 dependencies {
@@ -33,23 +33,22 @@ dependencies {
 }
 ```
 
-## Usage
+## 使用方法
 
 ```
 VerticalDrawerView drawer = findViewById(R.id.vd);
 
-// add indicator
+// 添加指示器
 drawer.setIndicator(drawable, drawable.getIntrinsicWidth(), drawable.getIntrinsicHeight());
 
-// add background
+// 添加背景
 drawer.setBackground(ContextCompat.getDrawable(this, R.drawable.drawer_view_background));
 
-// add content. using same content
+// 添加内容，使用同一个内容视图
 drawer.setCollapsedView(contentView, dp2px(33));
 drawer.setExpandedView(contentView);
 
-// or using different content
+// 或者使用不同的内容视图
 drawer.setCollapsedView(collapseContentView);
 drawer.setExpandedView(expandContentView);
 ```
-
